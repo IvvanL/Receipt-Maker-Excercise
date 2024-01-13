@@ -13,13 +13,13 @@ The expected outcome is that all the dishes' names and prices will be shown in t
 The text below shows the output that my code should produce:
 
 Prices with 20% tax:
-Dish: Italian pasta Price (incl.tax): $ 11.46
-Dish: Rice with veggies Price (incl.tax): $ 10.38
-Dish: Chicken with potatoes Price (incl.tax): $ 18.66
-Dish: Vegetarian Pizza Price (incl.tax): $ 7.74
+<p>Dish: Italian pasta Price (incl.tax): $ 11.46</p>
+<p>Dish: Rice with veggies Price (incl.tax): $ 10.38</p>
+<p>Dish: Chicken with potatoes Price (incl.tax): $ 18.66</p>
+<p>Dish: Vegetarian Pizza Price (incl.tax): $ 7.74</p>
 
 Prices without tax:
-Dish: Italian pasta Price (incl.tax): $ 9.55
-Dish: Rice with veggies Price (incl.tax): $ 8.65
-Dish: Chicken with potatoes Price (incl.tax): $ 15.55
-Dish: Vegetarian Pizza Price (incl.tax): $ 6.45
+<p>Dish: Italian pasta Price (incl.tax): $ 9.55</p>
+<p>Dish: Rice with veggies Price (incl.tax): $ 8.65</p>
+<p>Dish: Chicken with potatoes Price (incl.tax): $ 15.55</p>
+<p>Dish: Vegetarian Pizza Price (incl.tax): $ 6.45</p>
